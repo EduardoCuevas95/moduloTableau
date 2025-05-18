@@ -43,10 +43,18 @@ Después de realizar un análisis de los datos procesados, se identificaron los 
 
 ---
 
+## 🔗 Visualización Interactiva
+
+Haz clic en el siguiente enlace para explorar el dashboard interactivo desarrollado en Tableau:
+
+👉 [Ver Dashboard SRL en Tableau](https://public.tableau.com/app/profile/eduardo.cuevas4154/viz/CasoPracticoTableauRRHH/DashboardSRL)
+
+---
+
 ## 🧠 Conclusión
 
 Este análisis proporciona información valiosa para la toma de decisiones estratégicas en Recursos Humanos. A través del uso de herramientas de visualización como **Tableau**, es posible:
 
-- 🔎 Identificar áreas de mejora,
-- 👥 Optimizar la gestión del talento,
+- 🔎 Identificar áreas de mejora,  
+- 👥 Optimizar la gestión del talento,  
 - 🌈 Fomentar un entorno laboral más diverso, equitativo y eficiente.
